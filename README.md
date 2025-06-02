@@ -2,8 +2,6 @@
 
 Coffee Tracker is a simple and fun app to help you keep track of how many cups of coffee you drink in a day. With a minimalist interface and coffee bean aesthetic, it's your perfect companion for staying caffeinated—without overdoing it. 😉
 
----
-
 ## 🧠 Why Use Coffee Tracker?
 
 Sometimes we don’t realize how much coffee we've had until it's too late. This app helps you:
@@ -12,8 +10,6 @@ Sometimes we don’t realize how much coffee we've had until it's too late. This
 - View your coffee history.
 - Get a cheeky reminder that **sanity may decline after 5 cups** 😅.
 
----
-
 ## 🔧 Features
 
 - ☕ **One-tap tracking** of each cup.
@@ -21,7 +17,6 @@ Sometimes we don’t realize how much coffee we've had until it's too late. This
 - 📚 **Coffee history** section to view your consumption over time.
 - ⚠️ Fun warning message when you exceed 5 cups.
 
----
 
 ## 🚀 How to Use
 
@@ -30,8 +25,6 @@ Sometimes we don’t realize how much coffee we've had until it's too late. This
 3. Hit **save** to store your daily count.
 4. Check the **coffee history** for your log.
 5. Laugh (or cry) when you hit the 5-cup sanity warning.
-
----
 
 ## 👩‍💻 Author
 
